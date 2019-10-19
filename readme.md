@@ -6,16 +6,16 @@ Instalar paquetes de Node:
 
 ## Comandos
 
-* Listar tareas
+* Listar tareas    ->
 node app listar
 
-* Mostrar tareas
+* Mostrar tareas   ->
 node app crear --description "Descripcion de la tarea"
 
-* Actualiar tareas
+* Actualiar tareas ->
 node app actualizar --description "Descripcion de la tarea"
 
-* Eliminar tareas
+* Eliminar tareas  ->
 node app eliminar --description "Descripcion de la tarea" --completado ""
 
 ## Alias
